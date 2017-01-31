@@ -2,4 +2,4 @@
 
 A syntax theme for [Atom Material UI]
 
-![Screenshot](https://github.com/sjbavier/atom-material-overlord-syntax/Screen_Shot.png)
+![Screenshot](https://github.com/sjbavier/atom-material-overlord-syntax/blob/master/Screen_Shot.png)
