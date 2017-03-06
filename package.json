@@ -1,7 +1,7 @@
 {
   "name": "atom-material-overlord-syntax",
   "theme": "syntax",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "A syntax theme for [Atom Material UI](https://github.com/silvestreh/atom-material-ui).  Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).",
   "keywords": [
     "syntax",
